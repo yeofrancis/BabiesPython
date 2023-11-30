@@ -1,2 +1,5 @@
 # BabiesPython
-Learning exercises for Python 
+Learning exercises for CS50 Python
+Problem Set 0
+Problem Set 1
+
