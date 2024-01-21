@@ -28,7 +28,7 @@ Variables: Containers for information.
 | [Indoor Voice](https://cs50.harvard.edu/python/2022/psets/0/indoor/)    |  21 Jan 2024     |
 | [Playback Speed](https://cs50.harvard.edu/python/2022/psets/0/playback/)|  21 Jan 2024     |
 | [Making Faces](https://cs50.harvard.edu/python/2022/psets/0/faces/)     |  21 Jan 2024     |
-| [Einstein](https://cs50.harvard.edu/python/2022/psets/0/einstein/)      |                  |
+| [Einstein](https://cs50.harvard.edu/python/2022/psets/0/einstein/)      |  21 Jan 2024     |
 | [Tip Calculator](https://cs50.harvard.edu/python/2022/psets/0/tip/)     |                  |
 
  
