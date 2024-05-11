@@ -1,7 +1,6 @@
-# BabiesPython
-This repo hold the below for a small group of community starting the journey on Python  \
-  - Learning exercises for CS50 Python. 
-  - Automation projects.
-  - Cloud projects
+# Automation projects 
+
+1. Combine 2 Excel workbooks including all sheets into 1 workbook preserving its formatting and formulas 
+
 
 
